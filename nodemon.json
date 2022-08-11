@@ -1,0 +1,5 @@
+{
+    "env": {
+        "URI_BD": "mongodb+srv://JonasMarques:jonas21092001@imageperfil.fyszgrq.mongodb.net/?retryWrites=true&w=majority"
+    }
+}
